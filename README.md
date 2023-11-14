@@ -7,6 +7,10 @@ Identify how the program works.
 Identify potential issues and suggest alternatives
 Provide a recommendation on how to move forward
 
+HOW DO I USE THIS? Go to the live demo here: https://ajgalle1.github.io/Business-Card-Parser/
+Type in your business card information or cut and paste from the examples provided. 
+Please only do one at a time. 
+
 HOW DOES IT WORK?
 The script will add an event listener for when the user hits the submit button and then take everything the user typed or pasted into the form.
 
